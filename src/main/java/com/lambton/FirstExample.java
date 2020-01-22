@@ -6,8 +6,10 @@ public class FirstExample
     {
         System.out.println("Welcome to Java Programming");
         for (int i = 0; i < 10; i++)
-        {
+
             System.out.println("PhilipJhasonDeLeon");
-        }
+
+        //sample commit - 1
+
     }
 }
