@@ -46,5 +46,6 @@ public class FirstExample
         System.out.println("z = " + z1);
 
         double x1 = 1_00___00.5_0;
+        System.out.println("X1 = " + x1);
     }
 }
