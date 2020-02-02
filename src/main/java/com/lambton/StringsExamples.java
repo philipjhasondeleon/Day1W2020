@@ -1,5 +1,7 @@
 package com.lambton;
 
+import java.util.Arrays;
+
 public class StringsExamples
 {
     public static void main(String[] args)
@@ -23,7 +25,7 @@ public class StringsExamples
         System.out.println("s6 = " + s6 ); //World
         System.out.println("s7 = " + s7 ); //Hello
 
-        String.
+        //String.
         //String Comparison
         if (s1 == s7) {
             System.out.println("s2(" + s2 + ") = s6(" + s6 + ")");
@@ -62,6 +64,7 @@ public class StringsExamples
         char[] helloArray = { 'h', 'e', 'l', 'l', 'o', 'w','o','r','l','d' };
         String helloString = new String(helloArray);
         System.out.println( helloString );
+        //System.out.println(Arrays.toString(helloArray));
 
         
 
